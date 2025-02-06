@@ -1,0 +1,5 @@
+add_requires("glfw","glad")
+target("execultavel")
+    set_kind("binary")
+    add_files("../config/main.cpp")
+    add_packages("glfw","glad")
