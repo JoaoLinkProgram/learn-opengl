@@ -1,1 +1,1 @@
-read opengl and c/c++
+#read opengl and c/c++
